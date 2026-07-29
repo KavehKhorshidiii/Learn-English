@@ -89,4 +89,4 @@ the assistant will never assume a profession or domain on its own.
 | Word family *(if relevant)* | Related word forms (e.g. create/creator/creative) | اشکال مرتبط کلمه |
 | Mental image | A visual analogy to help you remember | یک تصویر ذهنی برای کمک به یادسپاری |
 | Memory card | Short summary in your native language | خلاصه‌ی کوتاه به زبان مادری |
-| Usage frequency | Score (0-100) showing how common the word is | امتیاز (۰ تا ۱۰۰) نشان‌دهنده‌ی رواج کلمه |
+| Usage frequency | Score (0-100) showing how common the word is | امتیاز (0 تا 100) نشان‌دهنده‌ی رواج کلمه |
