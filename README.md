@@ -1,9 +1,3 @@
-# Learn-English
-
-
-
-
-
 # 📚 Vocabulary Learning Prompt | پرامپت یادگیری واژگان انگلیسی
 
 A ready-to-use ChatGPT/Claude prompt that turns any AI chat into a personalized English
@@ -24,13 +18,15 @@ comprehension** skills.
 3. Fill in the three settings at the top (see below) — or leave them blank to use defaults
 4. Send any English word(s), separated by commas or dashes — e.g. `resilient, override, cat`
 5. Get back a structured flashcard for each word
+   
+<br/>
 
 **فارسی:**
-۱. کل پرامپت رو از فایل [`Vocabulary.md`](./Prompts/Vocabulary/Vocabulary.md) کپی کن
-۲. به‌عنوان اولین پیام در یک چت جدید (ChatGPT یا Claude) پیست کن
-۳. سه تنظیم بالای پرامپت رو پر کن (توضیح کامل در پایین) — یا خالی بذار تا پیش‌فرض استفاده بشه
-۴. هر تعداد کلمه‌ی انگلیسی رو با کاما یا خط تیره جدا کن و بفرست — مثلاً: `resilient, override, cat`
-۵. برای هر کلمه یک کارت آموزشی ساختاریافته دریافت می‌کنی
+1. کل پرامپت رو از فایل [`Vocabulary.md`](./Prompts/Vocabulary/Vocabulary.md) کپی کن
+2. به‌عنوان اولین پیام در یک چت جدید (ChatGPT یا Claude) پیست کن
+3. سه تنظیم بالای پرامپت رو پر کن (توضیح کامل در پایین) — یا خالی بذار تا پیش‌فرض استفاده بشه
+4. هر تعداد کلمه‌ی انگلیسی رو با کاما یا خط تیره جدا کن و بفرست
+5. برای هر کلمه یک کارت آموزشی ساختاریافته دریافت می‌کنی
 
 ---
 
