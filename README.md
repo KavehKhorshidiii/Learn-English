@@ -1,7 +1,7 @@
 <h1 align="center">Learn English</h1>
 <p align="center">
 
-A ready-to-use ChatGPT/Claude prompt that turns any AI chat into a personalized English
+A ready-to-use prompt that turns any AI chat into a personalized English
 vocabulary tutor — built for non-native speakers who want to improve **reading and
 comprehension** skills.
 
@@ -10,6 +10,13 @@ comprehension** skills.
 رو تقویت کنن.
 
 </p>
+
+
+<br/>
+<br/>
+
+## Screenshots
+![Screenshot](./screenshot/Vocabulary/Vocabulary.png)
 
 
 <br/>
@@ -90,3 +97,16 @@ the assistant will never assume a profession or domain on its own.
 | Mental image | A visual analogy to help you remember | یک تصویر ذهنی برای کمک به یادسپاری |
 | Memory card | Short summary in your native language | خلاصه‌ی کوتاه به زبان مادری |
 | Usage frequency | Score (0-100) showing how common the word is | امتیاز (0 تا 100) نشان‌دهنده‌ی رواج کلمه |
+
+
+<br/>
+<br/>
+
+
+## Author
+
+**Kaveh Khorshidi**
+
+[![GitHub](https://img.shields.io/badge/GitHub-kavehkhorshidiii-181717?logo=github)](https://github.com/KavehKhorshidiii)
+
+[![Email](https://img.shields.io/badge/Email-kavehkhorshidiii%40gmail.com-181717?logo=gmail&logoColor=white)](mailto:kavehkhorshidiii@gmail.com)
