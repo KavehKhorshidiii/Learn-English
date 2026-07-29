@@ -15,6 +15,15 @@ comprehension** skills.
 <br/>
 <br/>
 
+
+## prompt | پرامپت
+[`Click here`](./Prompts/Vocabulary/Vocabulary.md) 
+[`اینجا کلیک کنید`](./Prompts/Vocabulary/Vocabulary.md)
+
+
+<br/>
+<br/>
+
 ## Screenshots
 ![Screenshot](./screenshot/Vocabulary/Vocabulary.png)
 
