@@ -1,4 +1,4 @@
-# 📚 Vocabulary Learning Prompt | پرامپت یادگیری واژگان انگلیسی
+# 📚 Vocabulary Learning Prompt / پرامپت یادگیری واژگان انگلیسی
 
 A ready-to-use ChatGPT/Claude prompt that turns any AI chat into a personalized English
 vocabulary tutor — built for non-native speakers who want to improve **reading and
@@ -8,27 +8,30 @@ comprehension** skills.
 واژگان انگلیسی — مخصوص افرادی که زبان مادری‌شون انگلیسی نیست و می‌خوان مهارت **خواندن و درک مطلب**‌شون
 رو تقویت کنن.
 
----
+<br/>
+<br/>
 
 ## 🚀 How to use / نحوه‌ی استفاده
 
 **English:**
-1. Copy the full prompt from [`Vocabulary.md`](./Prompts/Vocabulary/Vocabulary.md)
+1. Copy the full prompt from [`vocabulary-prompt-final.md`](./vocabulary-prompt-final.md)
 2. Paste it as the first message in a new ChatGPT or Claude conversation
 3. Fill in the three settings at the top (see below) — or leave them blank to use defaults
-4. Send any English word(s), separated by commas or dashes — e.g. `resilient, override, cat`
+4. Send any English word(s), separated by commas or dashes — e.g. `apple, car`
 5. Get back a structured flashcard for each word
-   
+
 <br/>
 
 **فارسی:**
-1. کل پرامپت رو از فایل [`Vocabulary.md`](./Prompts/Vocabulary/Vocabulary.md) کپی کن
+1. کل پرامپت رو از فایل [`vocabulary-prompt-final.md`](./vocabulary-prompt-final.md) کپی کن
 2. به‌عنوان اولین پیام در یک چت جدید (ChatGPT یا Claude) پیست کن
 3. سه تنظیم بالای پرامپت رو پر کن (توضیح کامل در پایین) — یا خالی بذار تا پیش‌فرض استفاده بشه
-4. هر تعداد کلمه‌ی انگلیسی رو با کاما یا خط تیره جدا کن و بفرست
+4. هر تعداد کلمه‌ی انگلیسی رو با کاما یا خط تیره جدا کن و بفرست — مثلاً: `apple, car`
 5. برای هر کلمه یک کارت آموزشی ساختاریافته دریافت می‌کنی
 
----
+<br/>
+<br/>
+
 
 ## ⚙️ User Settings explained / توضیح بخش تنظیمات کاربر
 
@@ -75,9 +78,10 @@ the assistant will never assume a profession or domain on its own.
 یک برنامه‌نویس، مثال‌ها حول کد می‌چرخن؛ برای یک مربی فوتبال، حول تمرین). اگه خالی بمونه،
 مثال‌های عمومی استفاده می‌شن — دستیار هیچ‌وقت خودش حدس نمی‌زنه که شغل یا زمینه‌ت چیه.
 
----
+<br/>
+<br/>
 
-## 🃏 What each flashcard includes / محتوای هر کارت آموزشی
+## What each flashcard includes / محتوای هر کارت آموزشی
 
 | Section | English | فارسی |
 |---|---|---|
@@ -90,15 +94,12 @@ the assistant will never assume a profession or domain on its own.
 | Memory card | Short summary in your native language | خلاصه‌ی کوتاه به زبان مادری |
 | Usage frequency | Score (0-100) showing how common the word is | امتیاز (۰ تا ۱۰۰) نشان‌دهنده‌ی رواج کلمه |
 
-*Collocations and Word family only appear when they genuinely apply to the word —
-they're skipped rather than filled with weak/forced content.*
 
-*بخش‌های Collocations و Word family فقط وقتی ظاهر می‌شن که واقعاً برای اون کلمه معنی داشته
-باشن — در غیر این صورت، به‌جای پر شدن با محتوای ضعیف، کلاً حذف می‌شن.*
+<br/>
+<br/>
 
----
 
-## 📝 Notes / نکات
+## Notes | نکات
 
 - Works with **any English word or phrasal verb** — not limited to a specific topic,
   unless you set a personal context.
