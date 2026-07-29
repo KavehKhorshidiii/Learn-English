@@ -105,7 +105,13 @@ Ready-to-use prompts that turn any AI chat into a personalized English tutor for
  ##### Speaking
 
   Speaking fluently isn't just about knowing grammar rules — it's about practicing real,live conversation without fear of making mistakes. This prompt gives you a patientconversation partner who keeps the chat natural and engaging, while quietly helpingyou sound more fluent over time.
-   مهارت مکالمه فقط دونستن قواعد گرامری نیست — تمرین یک گفتگوی واقعی و زنده، بدون ترس ازاشتباه کردنه. این پرامپت یک همراه صبور برای مکالمه بهت می‌ده که گفتگو رو طبیعی و جذابنگه می‌داره، و در همون حین به آرومی کمکت می‌کنه با گذر زمان روون‌تر صحبت کنی. <br/><br/>
+
+   مهارت مکالمه فقط دونستن قواعد گرامری نیست — تمرین یک گفتگوی واقعی و زنده، بدون ترس ازاشتباه کردنه. این پرامپت یک همراه صبور برای مکالمه بهت می‌ده که گفتگو رو طبیعی و جذابنگه می‌داره، و در همون حین به آرومی کمکت می‌کنه با گذر زمان روون‌تر صحبت کنی. 
+   
+
+<br/>
+<br/>
+
 
 ## Other resources | منابع دیگر
 
@@ -118,4 +124,6 @@ Ready-to-use prompts that turn any AI chat into a personalized English tutor for
 **Kaveh Khorshidi**
 
 [![GitHub](https://img.shields.io/badge/GitHub-kavehkhorshidiii-181717?logo=github)](https://github.com/KavehKhorshidiii)
+
+
 [![Email](https://img.shields.io/badge/Email-kavehkhorshidiii%40gmail.com-181717?logo=gmail&logoColor=white)](mailto:kavehkhorshidiii@gmail.com)
