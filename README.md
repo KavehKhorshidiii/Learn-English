@@ -19,7 +19,7 @@ comprehension** skills.
 ## How to use | نحوه‌ی استفاده
 
 ###### English
-1. Copy the full prompt from [`vocabulary-prompt-final.md`](./vocabulary-prompt-final.md)
+1. Copy the full prompt from [`here`](./Prompts/Vocabulary/Vocabulary.md)
 2. Paste it as the first message in a new ChatGPT or Claude conversation
 3. Fill in the three settings at the top (see below) — or leave them blank to use defaults
 4. Send any English word(s), separated by commas or dashes — e.g. `apple, car`
@@ -28,7 +28,7 @@ comprehension** skills.
 <br/>
 
 ###### فارسی
-1. کل پرامپت رو از فایل [`vocabulary-prompt-final.md`](./vocabulary-prompt-final.md) کپی کن
+1. کل پرامپت رو از فایل [`here`](./Prompts/Vocabulary/Vocabulary.md) کپی کن
 2. به‌عنوان اولین پیام در یک چت جدید (ChatGPT یا Claude) پیست کن
 3. سه تنظیم بالای پرامپت رو پر کن (توضیح کامل در پایین) — یا خالی بذار تا پیش‌فرض استفاده بشه
 4. هر تعداد کلمه‌ی انگلیسی رو با کاما یا خط تیره جدا کن و بفرست — مثلاً: `apple, car`
