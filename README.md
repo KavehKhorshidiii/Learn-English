@@ -17,20 +17,22 @@ comprehension, and speaking** skills.
 ## prompt | پرامپت
 <h3 align="left">
 
-→ [Click here | برای پرامپت واژگان اینجا کلیک کنید](./Prompts/Vocabulary/Vocabulary.md)
+→ [Vocabulary prompt | پرامپت واژگان](./Prompts/Vocabulary/Vocabulary.md)
 
-→ [Click here | برای پرامپت صحبت کردن اینجا کلیک کنید](./Prompts/Speaking/Speaking.md)
+→ [Speaking prompt | پرامپت صحبت کردن](./Prompts/Speaking/Speaking.md)
 
 </h3>
 
 <br/>
 <br/>
 
-## Screenshots | تصاویر صفحه
+## Screenshots
 
 ##### Vocabulary
 ![Screenshot](./screenshot/Vocabulary/Vocabulary.png)
 
+##### Speaking
+![Screenshot](./screenshot/Speaking/Speaking.png)
 
 <br/>
 <br/>
@@ -176,11 +178,11 @@ relevant and personal to you. If left blank, general-purpose topics are used.
 
 | Section | English | فارسی |
 |---|---|---|
-| 💬 Reply | A natural conversational response with a follow-up question | پاسخ طبیعی مکالمه‌ای همراه با یک سوال ادامه‌دار |
-| 📝 Feedback *(if needed)* | Gentle correction of a meaningful mistake | اصلاح ملایم یک اشتباه مهم |
-| 🌟 More natural way to say it *(if relevant)* | A more native-like way to phrase what you said | یک روش طبیعی‌تر برای بیان همون جمله |
-| 🔑 Useful word/phrase *(if relevant)* | One relevant new word or expression | یک کلمه یا عبارت مفید و مرتبط |
-| 🔍 "I didn't understand" mode *(on demand)* | Explains the previous message + gives example answers | توضیح پیام قبلی + چند نمونه جواب |
+| Reply | A natural conversational response with a follow-up question | پاسخ طبیعی مکالمه‌ای همراه با یک سوال ادامه‌دار |
+| Feedback *(if needed)* | Gentle correction of a meaningful mistake | اصلاح ملایم یک اشتباه مهم |
+| More natural way to say it *(if relevant)* | A more native-like way to phrase what you said | یک روش طبیعی‌تر برای بیان همون جمله |
+| Useful word/phrase *(if relevant)* | One relevant new word or expression | یک کلمه یا عبارت مفید و مرتبط |
+| "I didn't understand" mode *(on demand)* | Explains the previous message + gives example answers | توضیح پیام قبلی + چند نمونه جواب |
 
 <br/>
 <br/>
