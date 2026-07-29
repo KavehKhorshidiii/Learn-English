@@ -111,6 +111,34 @@ the assistant will never assume a profession or domain on its own.
 <br/>
 <br/>
 
+## Why use this prompt? | چرا از این پرامپت استفاده کنیم؟
+
+Learning English vocabulary is not just about memorizing translations.
+This prompt helps you understand words through context, examples, and memory techniques —
+so you can recognize and use new vocabulary more naturally while reading English.
+
+یادگیری واژگان فقط حفظ کردن ترجمه نیست.
+این پرامپت کمک می‌کند کلمات را با مفهوم، مثال و تصویر ذهنی یاد بگیرید؛
+تا هنگام خواندن متن‌های انگلیسی، کلمات جدید را بهتر درک و به خاطر بسپارید.
+
+
+<br/>
+<br/>
+
+
+## A list of other learning resources
+
+
+<h3 align="left">
+
+→ [Language learning resources](https://github.com/KavehKhorshidiii/Learn-English)
+
+
+</h3>
+
+
+<br/>
+<br/>
 
 ## Author
 
