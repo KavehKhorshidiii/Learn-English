@@ -26,13 +26,11 @@ comprehension, and speaking** skills.
 <br/>
 <br/>
 
-## Screenshots
+## Screenshots | تصاویر صفحه
 
 ##### Vocabulary
 ![Screenshot](./screenshot/Vocabulary/Vocabulary.png)
 
-##### Speaking
-![Screenshot](./screenshot/Speaking/Speaking.png)
 
 <br/>
 <br/>
