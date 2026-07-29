@@ -71,6 +71,12 @@ Ready-to-use prompts that turn any AI chat into a personalized English tutor for
 
 ## Settings | تنظیمات
 
+
+Before you start, you can customize the prompt to fit you — just fill in the settings at the top (like your level or native language), or leave them blank to use the defaults.
+
+ قبل از شروع می‌تونی پرامپت رو متناسب با خودت شخصی‌سازی کنی — کافیه تنظیمات بالای پرامپت (مثل سطح زبان یا زبان مادری‌ت) رو پر کنی، یا خالی بذاری تا حالت پیش‌فرض استفاده بشه.
+
+
 ##### Vocabulary
 | Setting | English | فارسی |
 |---|---|---|
