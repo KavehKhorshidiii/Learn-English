@@ -12,7 +12,7 @@ Ready-to-use prompts that turn any AI chat into a personalized English tutor for
 <br/>
 
 
-## prompt | پرامپت
+## prompts | پرامپت ها
 <h3 align="left">
 
 → [Vocabulary prompt | پرامپت واژگان](./Prompts/Vocabulary/Vocabulary.md)
@@ -26,7 +26,7 @@ Ready-to-use prompts that turn any AI chat into a personalized English tutor for
 <br/>
 
 
-## Screenshots
+## Screenshots | تصاویر صفحه
 
 ##### Vocabulary
 ![Screenshot](./screenshot/Vocabulary/Vocabulary.png)
@@ -39,18 +39,33 @@ Ready-to-use prompts that turn any AI chat into a personalized English tutor for
 ## How to use | نحوه‌ی استفاده
 
 ##### Vocabulary
-1. Copy the prompt [`here`](./Prompts/Vocabulary/Vocabulary.md) and paste it as the first message in a new chat | پرامپت رو [`از اینجا`](./Prompts/Vocabulary/Vocabulary.md) کپی و به‌عنوان اولین پیام پیست کن
-2. Fill in the settings at the top, or leave blank for defaults | تنظیمات بالای پرامپت رو پر کن یا خالی بذار
-3. Send any word(s) separated by commas/dashes, e.g. `apple, car` | کلمات رو با کاما یا خط تیره بفرست، مثلاً: `apple, car`
-4. Get a structured flashcard for each word | یک کارت آموزشی برای هر کلمه دریافت می‌کنی
+1. Copy the prompt [`here`](./Prompts/Vocabulary/Vocabulary.md) and paste it as the first message in a new chat.
+2. Fill in the settings at the top, or leave blank for defaults.
+3. Send any word(s) separated by commas/dashes, e.g. `apple, car`.
+4. Get a structured flashcard for each word.
+
+<br/>
+
+1. پرامپت رو [`از اینجا`](./Prompts/Vocabulary/Vocabulary.md) کپی و به‌عنوان اولین پیام پیست کن.
+2. تنظیمات بالای پرامپت رو پر کن یا خالی بذار.
+3. کلمات رو با کاما یا خط تیره بفرست، مثلاً: `apple, car`.
+4. یک کارت آموزشی برای هر کلمه دریافت می‌کنی.
+
 
 <br/>
 
 ##### Speaking
-1. Copy the prompt [`here`](./Prompts/Speaking/Speaking.md) and paste it as the first message in a new chat | پرامپت رو [`از اینجا`](./Prompts/Speaking/Speaking.md) کپی و به‌عنوان اولین پیام پیست کن
-2. Fill in the settings at the top, or leave blank for defaults | تنظیمات بالای پرامپت رو پر کن یا خالی بذار
-3. Chat in English like you're talking to a real person | به انگلیسی چت کن، انگار با یک آدم واقعی حرف می‌زنی
-4. If you don't understand a message, just say "I didn't understand" (English or your language) for an explanation + example answers | اگه چیزی رو نفهمیدی، بگو "نفهمیدم" تا توضیح و چند نمونه جواب بگیری
+1. Copy the prompt [`here`](./Prompts/Speaking/Speaking.md) and paste it as the first message in a new chat
+2. Fill in the settings at the top, or leave blank for defaults
+3. Chat in English like you're talking to a real person
+4. If you don't understand a message, just say "I didn't understand" (English or your language) for an explanation + example answers
+
+<br/>
+
+1. پرامپت رو [`از اینجا`](./Prompts/Speaking/Speaking.md) کپی و به‌عنوان اولین پیام پیست کن.
+2. تنظیمات بالای پرامپت رو پر کن یا خالی بذار.
+3. به انگلیسی چت کن، انگار با یک آدم واقعی حرف می‌زنی.
+4. اگه چیزی رو نفهمیدی، بگو "نفهمیدم" تا توضیح و چند نمونه جواب بگیری.
 
 <br/>
 
