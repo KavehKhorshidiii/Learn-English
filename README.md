@@ -28,7 +28,7 @@ comprehension** skills.
 <br/>
 
 ###### فارسی
-1. کل پرامپت رو از فایل [`here`](./Prompts/Vocabulary/Vocabulary.md) کپی کن
+1. کل پرامپت رو از فایل [`اینجا`](./Prompts/Vocabulary/Vocabulary.md) کپی کن
 2. به‌عنوان اولین پیام در یک چت جدید (ChatGPT یا Claude) پیست کن
 3. سه تنظیم بالای پرامپت رو پر کن (توضیح کامل در پایین) — یا خالی بذار تا پیش‌فرض استفاده بشه
 4. هر تعداد کلمه‌ی انگلیسی رو با کاما یا خط تیره جدا کن و بفرست — مثلاً: `apple, car`
@@ -84,11 +84,9 @@ the assistant will never assume a profession or domain on its own.
 |---|---|---|
 | Part of speech | Grammatical role of the word | نقش دستوری کلمه |
 | Concept definition | Simple English definition, matched to your level | تعریف ساده‌ی انگلیسی، متناسب با سطح تو |
-| Examples | 3-4 natural example sentences | ۳ تا ۴ جمله‌ی مثال طبیعی |
-| Collocations *(if relevant)* | Common word pairings (e.g. "make a decision") | ترکیب‌های رایج کلمه (مثل «make a decision») |
-| Word family *(if relevant)* | Related word forms (e.g. create/creator/creative) | اشکال مرتبط کلمه (مثل create/creator/creative) |
+| Examples | 3-4 natural example sentences | جمله‌ی مثال طبیعی |
+| Collocations *(if relevant)* | Common word pairings (e.g. "make a decision") | ترکیب‌های رایج کلمه |
+| Word family *(if relevant)* | Related word forms (e.g. create/creator/creative) | اشکال مرتبط کلمه |
 | Mental image | A visual analogy to help you remember | یک تصویر ذهنی برای کمک به یادسپاری |
 | Memory card | Short summary in your native language | خلاصه‌ی کوتاه به زبان مادری |
 | Usage frequency | Score (0-100) showing how common the word is | امتیاز (۰ تا ۱۰۰) نشان‌دهنده‌ی رواج کلمه |
-
----
