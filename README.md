@@ -131,7 +131,7 @@ so you can recognize and use new vocabulary more naturally while reading English
 
 <h3 align="left">
 
-→ [Language learning resources](https://github.com/KavehKhorshidiii/Learn-English)
+→ [Language learning resources](https://kavehkhorshidiii.notion.site/Language-learning-resources-3ac62d44ff8380eea592cea27b0acb85?source=copy_link)
 
 
 </h3>
