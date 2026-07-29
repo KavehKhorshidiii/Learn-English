@@ -19,14 +19,14 @@ comprehension** skills.
 ## 🚀 How to use / نحوه‌ی استفاده
 
 **English:**
-1. Copy the full prompt from [`vocabulary-prompt-final.md`](./vocabulary-prompt-final.md)
+1. Copy the full prompt from [`Vocabulary.md`](./Prompts/Vocabulary/Vocabulary.md)
 2. Paste it as the first message in a new ChatGPT or Claude conversation
 3. Fill in the three settings at the top (see below) — or leave them blank to use defaults
 4. Send any English word(s), separated by commas or dashes — e.g. `resilient, override, cat`
 5. Get back a structured flashcard for each word
 
 **فارسی:**
-۱. کل پرامپت رو از فایل [`vocabulary-prompt-final.md`](./vocabulary-prompt-final.md) کپی کن
+۱. کل پرامپت رو از فایل [`Vocabulary.md`](./Prompts/Vocabulary/Vocabulary.md) کپی کن
 ۲. به‌عنوان اولین پیام در یک چت جدید (ChatGPT یا Claude) پیست کن
 ۳. سه تنظیم بالای پرامپت رو پر کن (توضیح کامل در پایین) — یا خالی بذار تا پیش‌فرض استفاده بشه
 ۴. هر تعداد کلمه‌ی انگلیسی رو با کاما یا خط تیره جدا کن و بفرست — مثلاً: `resilient, override, cat`
