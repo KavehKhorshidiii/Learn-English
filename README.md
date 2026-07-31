@@ -128,9 +128,6 @@ Before you start, you can customize the prompt to fit you — just fill in the s
 
 <br/>
 
-> 💬 **"more" command | دستور "more":** Any time during a reading session, type `more` (or its equivalent in your native language, e.g. `بیشتر`) to extend the current passage with the same number of lines as your original setting, instead of getting a brand-new one.
->
-> هر وقت وسط تمرین خواندن بنویسی `more` (یا معادلش به زبان مادریت، مثلاً `بیشتر`)، همون متن با همون تعداد خطی که اول تنظیم کرده بودی ادامه پیدا می‌کنه، به‌جای اینکه یک متن کاملاً جدید بگیری.
 
 
 <br/>
