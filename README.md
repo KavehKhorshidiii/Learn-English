@@ -1,9 +1,9 @@
 <h1 align="center">Learn English</h1>
 <p align="center">
 
-Ready-to-use prompts that turn any AI chat into a personalized English tutor for **vocabulary** and **speaking** practice.
+Ready-to-use prompts that turn any AI chat into a personalized English tutor for **vocabulary**, **speaking**, and **reading** practice.
 
-پرامپت‌های آماده برای تبدیل چت هوش مصنوعی به معلم شخصی زبان انگلیسی — برای تقویت **واژگان** و **مکالمه**.
+پرامپت‌های آماده برای تبدیل چت هوش مصنوعی به معلم شخصی زبان انگلیسی — برای تقویت **واژگان**، **مکالمه** و **خواندن**.
 
 </p>
 
@@ -18,6 +18,8 @@ Ready-to-use prompts that turn any AI chat into a personalized English tutor for
 → [Vocabulary prompt | پرامپت واژگان](./Prompts/Vocabulary/Vocabulary.md)
 
 → [Speaking prompt | پرامپت صحبت کردن](./Prompts/Speaking/Speaking.md)
+
+→ [Reading prompt | پرامپت خواندن](./Prompts/Reading/Reading.md)
 
 </h3>
 
@@ -69,6 +71,21 @@ Ready-to-use prompts that turn any AI chat into a personalized English tutor for
 
 <br/>
 
+##### Reading
+1. Copy the prompt [`here`](./Prompts/Reading/Reading.md) and paste it as the first message in a new chat
+2. Fill in the settings at the top, or leave blank for defaults
+3. Get a fresh, up-to-date reading passage matched to your level, topic, and length
+4. Answer the comprehension questions in English, and get feedback + a new passage whenever you're ready
+
+<br/>
+
+1. پرامپت رو [`از اینجا`](./Prompts/Reading/Reading.md) کپی و به‌عنوان اولین پیام پیست کن.
+2. تنظیمات بالای پرامپت رو پر کن یا خالی بذار.
+3. یک متن خواندنی تازه و به‌روز، متناسب با سطح، موضوع و طول دلخواهت دریافت کن.
+4. به سؤالات درک مطلب به انگلیسی جواب بده و فیدبک بگیر، هر وقت خواستی هم یک متن جدید بگیر.
+
+<br/>
+
 ## Settings | تنظیمات
 
 
@@ -94,6 +111,16 @@ Before you start, you can customize the prompt to fit you — just fill in the s
 | Today's topic *(optional)* | Focuses the conversation | موضوع مکالمه رو مشخص می‌کنه |
 | Context/interests *(optional)* | Personalizes topics | موضوعات رو شخصی‌سازی می‌کنه |
 
+<br/>
+
+##### Reading
+| Setting | English | فارسی |
+|---|---|---|
+| Number of lines *(optional)* | Passage length; random 30–60 if left blank | طول متن؛ اگه خالی باشه بین ۳۰ تا ۶۰ خط تصادفی انتخاب می‌شه |
+| Topic *(optional)* | Focuses the passage; random topic if left blank | موضوع متن رو مشخص می‌کنه؛ اگه خالی باشه موضوع تصادفی انتخاب می‌شه |
+| English level (CEFR) | A1–C2, controls passage difficulty; defaults to B1 if left blank | A1 تا C2، سطح دشواری متن رو تعیین می‌کنه؛ اگه خالی باشه سطح نرمال (B1) در نظر گرفته می‌شه |
+| Native language *(optional)* | Used only for "I didn't understand" clarifications | فقط برای توضیح وقتی نفهمیدی |
+
 
 <br/>
 <br/>
@@ -113,6 +140,14 @@ Before you start, you can customize the prompt to fit you — just fill in the s
   Speaking fluently isn't just about knowing grammar rules — it's about practicing real,live conversation without fear of making mistakes. This prompt gives you a patientconversation partner who keeps the chat natural and engaging, while quietly helpingyou sound more fluent over time.
 
    مهارت مکالمه فقط دونستن قواعد گرامری نیست — تمرین یک گفتگوی واقعی و زنده، بدون ترس ازاشتباه کردنه. این پرامپت یک همراه صبور برای مکالمه بهت می‌ده که گفتگو رو طبیعی و جذابنگه می‌داره، و در همون حین به آرومی کمکت می‌کنه با گذر زمان روون‌تر صحبت کنی. 
+
+<br/>
+
+ ##### Reading
+
+  Reading practice shouldn't mean stale textbook paragraphs. This prompt generates fresh, up-to-date passages on topics you actually care about — so while you improve your reading skill, you're also staying current on real news and developments in that field, at exactly your level.
+
+   تمرین خواندن نباید یعنی متن‌های قدیمی کتاب درسی. این پرامپت متن‌های تازه و به‌روز، درباره‌ی موضوعاتی که واقعاً برات مهمه، می‌سازه — تا همزمان با تقویت مهارت خواندنت، از آخرین اخبار و اتفاقات همون حوزه هم بی‌خبر نمونی، دقیقاً متناسب با سطح خودت.
    
 
 <br/>
