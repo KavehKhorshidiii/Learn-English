@@ -18,7 +18,8 @@ Ready-to-use prompts that turn any AI chat into a personalized English tutor for
 
 ```bash
 
-"Read smarter. Learn faster."
+"Read smarter. Learn faster." 
+.هوشمندانه‌تر بخون. سریع‌تر یاد بگیر
 
 ```
 
