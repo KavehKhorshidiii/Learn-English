@@ -12,6 +12,21 @@ Ready-to-use prompts that turn any AI chat into a personalized English tutor for
 <br/>
 
 
+<h3 align="center">
+
+```bash
+
+"Read smarter. Learn faster."
+
+```
+
+</h3>
+
+
+<br/>
+<br/>
+
+
 ## prompts | پرامپت ها
 <h3 align="left">
 
