@@ -76,6 +76,8 @@ Ready-to-use prompts that turn any AI chat into a personalized English tutor for
 2. Fill in the settings at the top, or leave blank for defaults
 3. Get a fresh, up-to-date reading passage matched to your level, topic, and length
 4. Answer the comprehension questions in English, and get feedback + a new passage whenever you're ready
+5. **New:** if you filled in your native language and set translation to "yes" (or just type "yes" any time), the AI will add each paragraph's translation right under it
+6. **New:** type "more" (or the same word in your native language, e.g. "بیشتر") any time to keep the same passage going with more lines, instead of starting a new one
 
 <br/>
 
@@ -83,6 +85,8 @@ Ready-to-use prompts that turn any AI chat into a personalized English tutor for
 2. تنظیمات بالای پرامپت رو پر کن یا خالی بذار.
 3. یک متن خواندنی تازه و به‌روز، متناسب با سطح، موضوع و طول دلخواهت دریافت کن.
 4. به سؤالات درک مطلب به انگلیسی جواب بده و فیدبک بگیر، هر وقت خواستی هم یک متن جدید بگیر.
+5. **جدید:** اگه زبان مادریت رو وارد کرده باشی و گزینه‌ی ترجمه رو "yes" بذاری (یا هر وقت فقط بنویسی "yes")، زیر هر پاراگراف انگلیسی، ترجمه‌ش هم اضافه می‌شه.
+6. **جدید:** هر وقت بنویسی "more" (یا معادلش به زبان مادریت، مثلاً "بیشتر")، همون متن ادامه پیدا می‌کنه و خط‌های بیشتری بهش اضافه می‌شه، به‌جای اینکه یک متن کاملاً جدید بسازه.
 
 <br/>
 
@@ -116,13 +120,21 @@ Before you start, you can customize the prompt to fit you — just fill in the s
 ##### Reading
 | Setting | English | فارسی |
 |---|---|---|
-| Number of lines *(optional)* | Passage length; random 30–60 if left blank | طول متن؛ اگه خالی باشه بین ۳۰ تا ۶۰ خط تصادفی انتخاب می‌شه |
+| Number of lines *(optional)* | Passage length; random 30–60 if left blank. Also used as the "chunk size" whenever you ask for "more" | طول متن؛ اگه خالی باشه بین ۳۰ تا ۶۰ خط تصادفی انتخاب می‌شه. همین عدد موقع درخواست "more" هم به‌عنوان اندازه‌ی هر بخش اضافه استفاده می‌شه |
 | Topic *(optional)* | Focuses the passage; random topic if left blank | موضوع متن رو مشخص می‌کنه؛ اگه خالی باشه موضوع تصادفی انتخاب می‌شه |
 | English level (CEFR) | A1–C2, controls passage difficulty; defaults to B1 if left blank | A1 تا C2، سطح دشواری متن رو تعیین می‌کنه؛ اگه خالی باشه سطح نرمال (B1) در نظر گرفته می‌شه |
-| Native language *(optional)* | Used only for "I didn't understand" clarifications | فقط برای توضیح وقتی نفهمیدی |
+| Native language *(optional)* | Used for "I didn't understand" clarifications, and required if you want paragraph translations | برای توضیح وقتی نفهمیدی استفاده می‌شه، و برای فعال کردن ترجمه‌ی پاراگراف‌ها هم لازمه |
+| Paragraph translation *(optional, new)* | yes/no — if "yes" (and native language is set), each paragraph gets a translation right under it. Can also be toggled any time by typing "yes"/"no" in chat | بله/خیر — اگه "yes" باشه (و زبان مادری هم ست شده باشه)، زیر هر پاراگراف ترجمه‌ش هم میاد. هر وقت وسط چت هم بنویسی "yes"/"no" روشن یا خاموش می‌شه |
+
+<br/>
+
+> 💬 **"more" command | دستور "more":** Any time during a reading session, type `more` (or its equivalent in your native language, e.g. `بیشتر`) to extend the current passage with the same number of lines as your original setting, instead of getting a brand-new one.
+>
+> هر وقت وسط تمرین خواندن بنویسی `more` (یا معادلش به زبان مادریت، مثلاً `بیشتر`)، همون متن با همون تعداد خطی که اول تنظیم کرده بودی ادامه پیدا می‌کنه، به‌جای اینکه یک متن کاملاً جدید بگیری.
 
 
 <br/>
+
 <br/>
 
 
@@ -145,9 +157,9 @@ Before you start, you can customize the prompt to fit you — just fill in the s
 
  ##### Reading
 
-  Reading practice shouldn't mean stale textbook paragraphs. This prompt generates fresh, up-to-date passages on topics you actually care about — so while you improve your reading skill, you're also staying current on real news and developments in that field, at exactly your level.
+  Reading practice shouldn't mean stale textbook paragraphs. This prompt generates fresh, up-to-date passages on topics you actually care about — so while you improve your reading skill, you're also staying current on real news and developments in that field, at exactly your level. You can also turn on paragraph-by-paragraph translations into your native language, and ask for "more" any time to keep extending the same passage instead of starting over.
 
-   تمرین خواندن نباید یعنی متن‌های قدیمی کتاب درسی. این پرامپت متن‌های تازه و به‌روز، درباره‌ی موضوعاتی که واقعاً برات مهمه، می‌سازه — تا همزمان با تقویت مهارت خواندنت، از آخرین اخبار و اتفاقات همون حوزه هم بی‌خبر نمونی، دقیقاً متناسب با سطح خودت.
+   تمرین خواندن نباید یعنی متن‌های قدیمی کتاب درسی. این پرامپت متن‌های تازه و به‌روز، درباره‌ی موضوعاتی که واقعاً برات مهمه، می‌سازه — تا همزمان با تقویت مهارت خواندنت، از آخرین اخبار و اتفاقات همون حوزه هم بی‌خبر نمونی، دقیقاً متناسب با سطح خودت. همچنین می‌تونی ترجمه‌ی پاراگراف‌به‌پاراگراف رو به زبان مادریت روشن کنی، و هر وقت خواستی هم با گفتن "more" همون متن رو ادامه بدی به‌جای شروع یه متن جدید.
    
 
 <br/>
