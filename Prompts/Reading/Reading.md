@@ -55,7 +55,7 @@ USER SETTINGS — fill these in once before using
      so the user keeps producing/understanding English there.
    → If left blank, default to "no" (no translations shown).
    → The user can turn this on/off at any point in the conversation just by typing 
-     "yes" / "no" (or the equivalent word in their native language, e.g. "بله" / "خیر"), 
+     "yes" / "no", 
      and that preference applies from then on until changed again.
    Show translations: 
 ═══════════════════════════════════════
